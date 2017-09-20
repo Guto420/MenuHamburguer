@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XGH.Master"
+             Title="Master"
+             BackgroundColor="Gray"  
+             Icon="detailimage">
+
+    <StackLayout Padding="20">
+        <Button x:Name="BtnA" Text="Pagina1" />
+        <Button x:Name="BtnB" Text="Pagina2" />
+        <Button x:Name="BtnC" Text="Pagina3" />
+    </StackLayout>
+</ContentPage>
